@@ -4,7 +4,7 @@ normalize is a Python script for managing files for use with the Pioneer CDJ lin
 
 ## Background
 
-As a DJ, I have been using Pioneer CDJs for a long time, and have developed scripts over the years to help make my preparations for gigs as smooth as possible. *normalize.py* is one of these scripts -- more will be folded into it over the coming months.
+As a DJ, I have been using Pioneer CDJs for a long time, and have developed scripts over the years to help make my preparations for gigs as smooth as possible. `normalize.py` is one of these scripts -- more will be folded into it over the coming months.
 
 While newer CDJ models allow 96kHz and 24-bit audio, many older models do not. 16-bit files are perfecly adequate for playback on most systems, and certainly preferable to the hassle of files not working because a venue does not have the latest hardware updates. 
 
@@ -12,7 +12,9 @@ Additionally, many DJs play records that they rip at home out at clubs. I typica
 
 ## Installation
 
-Download the normalize.py script -- that's it! Requires no special libraries outside those included with most typical Python distributions.
+Download the `normalize.py` script -- that's it! Requires no special libraries outside those included with most typical Python distributions. 
+
+`normalize.py` in root directory is built for Python 2. A Python 3 compatible version is included in the `python3` directory.
 
 ## Usage
 
